@@ -208,7 +208,7 @@ a:hover {
 }
 .hero-banner > img {
   width: 100%;
-  height: 350px;
+  height: 550px;
   object-fit: cover;
   grid-column: 1/2;
   grid-row: 1/3;
