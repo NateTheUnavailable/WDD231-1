@@ -1,0 +1,226 @@
+[
+{
+    "recipe_name": "Chocolate Chip Cookies",
+    "notes": "A classic cookie recipe",
+    "ingredients": [
+        {
+            "name": "butter",
+            "amounts": {
+                "amount": "1",
+                "unit": "lb"
+            },
+            "notes": "softened"
+        },
+        {
+            "name": "brown sugar",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "cups"
+            }
+        },
+        {
+            "name": "white sugar",
+            "amounts": {
+                "amount": "1",
+                "unit": "cup"
+            }
+        },
+        {
+            "name": "eggs",
+            "amounts": {
+                "amount": "3",
+                "unit": "each"
+            }
+        },
+        {
+            "name": "vanilla",
+            "amounts": {
+                "amount": "2",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "baking soda",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "salt",
+            "amounts": {
+                "amount": "1/2",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "flour",
+            "amounts": {
+                "amount": "5",
+                "unit": "cups"
+            },
+            "notes": "we like 3 C white and 2 C whole wheat"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "amounts": {
+                "amount": "2",
+                "unit": "cups"
+            }
+        },
+        {
+            "name": "shredded coconut",
+            "amounts": {
+                "amount": "1-2",
+                "unit": "cups"
+            }
+        }
+    ],
+    "steps": [
+        "Cream the butter and sugar together, then beat in the eggs and vanilla",
+        "Mix in salt, soda and flour",
+        "Add chocolate chips and coconut",
+        "Bake 8-10 minutes at 350 F"
+    ]
+},
+{
+    "recipe_name": "Enchiladas",
+    "notes": "Give these babies a try",
+    "ingredients": [
+        {
+            "name": "skinless, boneless chicken breast meat",
+            "amounts": {
+                "amount": "2",
+                "unit": "lb",
+                "cut":"Chunks"
+            },
+            "notes": "softened"
+        },
+        {
+            "name": "sour cream",
+            "amounts": {
+                "amount": "1 1/4",
+                "unit": "cups"
+            }
+        },
+        {
+            "name": "condensed cream of chicken soup",
+            "amounts": {
+                "amount": "1",
+                "unit": "can",
+                "size": "10.5 ounce"
+            }
+        },
+        {
+            "name": "chili powder",
+            "amounts": {
+                "amount": "1/4",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "butter",
+            "amounts": {
+                "amount": "1",
+                "unit": "tbsp"
+            }
+        },
+        {
+            "name": "chopped onion",
+            "amounts": {
+                "amount": "1",
+                "unit": "small"
+            }
+        },
+        {
+            "name": "green onions, chopped, divided",
+            "amounts": {
+                "amount": "1",
+                "unit": "bunch"
+            }
+        },
+        {
+            "name": "chopped green chiles, drained",
+            "amounts": {
+                "amount": "1",
+                "unit": "can",
+                "size":"4 ounce"
+            }
+        },
+        {
+            "name": "mild taco seasoning mix",
+            "amounts": {
+                "amount": "1",
+                "unit": "package",
+                "size":"1.25 ounce"
+            }
+        },
+        {
+            "name": "lime juice",
+            "amounts": {
+                "amount": "1",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "onion powder",
+            "amounts": {
+                "amount": "1/2",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "garlic powder",
+            "amounts": {
+                "amount": "1/2",
+                "unit": "tsp"
+            }
+        },
+        {
+            "name": "flour tortillas",
+            "amounts": {
+                "amount": "5",
+                "size":"12 inch"
+            }
+        },
+        {
+            "name": "Shredded Cheddar cheese",
+            "amounts": {
+                "amount": "3",
+                "unit": "cups"
+            }
+        },
+        {
+            "name": "enchilada sauce",
+            "amounts": {
+                "amount": "1",
+                "unit": "can",
+                "size":"10 ounce"
+            }
+        },
+        {
+            "name": "sliced black olives, drained",
+            "amounts": {
+                "amount": "1",
+                "unit": "can",
+                "size":"6 ounce"
+            }
+        }
+    ],
+    "steps": [
+        "Place chicken into a large pot and add water to cover.",
+        "Bring to a boil over high heat, then reduce the heat to medium-low, cover, and simmer until chicken is no longer pink and the juices run clear, about 10 minutes.",
+        "Remove from the pot and let sit until cool enough to handle, 5 to 10 minutes. Shred chicken with two forks.",
+        "Combine sour cream, condensed soup, and chili powder in a saucepan. Bring to a simmer, stirring occasionally, then turn off the heat and cover to keep warm.",
+        "At the same time, melt butter in a skillet over medium heat. Add onion; cook and stir until translucent, about 5 minutes.",
+        "Add shredded chicken, water, 1/2 of the green onions, green chiles, and taco seasoning; simmer for 10 minutes.",
+        "Stir in lime juice, onion powder, and garlic powder; simmer for 10 more minutes",
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Stir 1 cup soup mixture into the skillet with the chicken. Spread remaining soup mixture over the bottom of a 9x13-inch baking dish.",
+        "Fill each tortilla with 1/5 of the chicken mixture and about 5 tablespoons Cheddar cheese.",
+        "Roll tortillas around filling and place enchiladas, seam-side down, into the baking dish.",
+        "Pour enchilada sauce over top and sprinkle with remaining Cheddar, remaining green onions, and olives.",
+        "Bake in the preheated oven until filling is heated through and cheese is melted and bubbling, about 25 minutes."
+    ]
+}
+]
